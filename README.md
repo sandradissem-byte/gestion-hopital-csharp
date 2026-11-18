@@ -33,4 +33,4 @@ dotnet ef database update --project GestionHopital
 Les diagrammes UML (cas d'utilisation et classes) se trouvent dans le dossier `docs/`.
 
 ## Auteurs
-[Nom Prénom] – [Nom Prénom]
+Dissem sandra
